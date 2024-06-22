@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "f8e97a977c8d9c02",
+    "type": "split",
+    "children": [
+      {
+        "id": "43ec0735f7712143",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "226830b32869b993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concurrency in Go/Chapter01/동시성 소개.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2440ce8b8c9c1676",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbb1d23a03840581",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f71e2aa564db5331",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "421f48b9a3418a24",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "23f2575eb6182acf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "b540805996d764e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "표 2-1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 361.5
+  },
+  "right": {
+    "id": "35a8e7b094bb7440",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5f278d0c85d9275",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d53aa1141a0be558",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Concurrency in Go/Chapter01/동시성 소개.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9fd9bde760da2407",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Concurrency in Go/Chapter01/동시성 소개.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0db84d9a57f8b97e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "77c09be3056c7640",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Concurrency in Go/Chapter01/동시성 소개.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "f71e2aa564db5331",
+  "lastOpenFiles": [
+    "동시성에 대한 정리/프로그래밍 기본.md",
+    "동시성에 대한 정리/암달의 법칙.md",
+    "동시성에 대한 정리/인스트럭션 레벨 병렬성.md",
+    "동시성에 대한 정리/동시성과 병렬성.md",
+    "동시성에 대한 정리/MIPS.md",
+    "동시성에 대한 정리/FLOPS.md",
+    "동시성에 대한 정리",
+    "Chapter02/MIPS.md",
+    "Chapter02/인스트럭션 레벨 병렬성.md",
+    "Chapter02/암달의 법칙.md",
+    "C++ 멀티스레딩/Chapter03/POSIX 스레드.md",
+    "C++ 멀티스레딩/Chapter02/프로세서와 OS에서의 멀티스레딩 구현.md",
+    "Welcome.md",
+    "C++ 멀티스레딩/Chapter02/OS별 스케줄링 알고리즘.md",
+    "Chapter02/동시성과 병렬성.md",
+    "표 2-1.md",
+    "Concurrency in Go/Chapter01/동시성 소개.md",
+    "동시성.md",
+    "Chapter02/프로그래밍 기본.md",
+    "C++ 멀티스레딩/C 언어.md",
+    "2024-06-03.md",
+    "Concurrency in Go/Chapter02/코드 모델링, 순차적인 프로세스 간의 통신.md",
+    "AI 공부/스크린샷 2024-06-10 181731.png",
+    "AI 공부/스크린샷 2024-06-10 183017.png",
+    "AI 공부/스크린샷 2024-06-10 182901.png",
+    "AI 공부/스크린샷 2024-06-10 181842.png",
+    "AI 공부/4장.md",
+    "AI 공부/스크린샷 2024-06-10 185100.png",
+    "AI 공부/스크린샷 2024-06-10 184436.png",
+    "AI 공부/1장.md",
+    "Concurrency in Go/Go의 동시성 구성 요소.md",
+    "C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
+    "Concurrency in Go/Chapter02",
+    "원자성.md",
+    "Concurrency in Go/Chapter01",
+    "AI 공부",
+    "C++ 멀티스레딩/무제 파일.canvas",
+    "C++ 멀티스레딩/Chapter03",
+    "무제 파일 1.canvas",
+    "무제 파일 2.canvas",
+    "C++ 멀티스레딩/Chapter02",
+    "Concurrency in Go",
+    "C++ 멀티스레딩/Chapter01",
+    "C++ 멀티스레딩",
+    "Chapter02"
+  ]
+}
