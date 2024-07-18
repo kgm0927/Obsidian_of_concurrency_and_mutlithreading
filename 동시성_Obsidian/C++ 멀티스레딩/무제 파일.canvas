@@ -1,9 +1,4 @@
 {
-	"nodes":[
-		{"id":"bad693fa546cbbfd","x":-227,"y":85,"width":400,"height":400,"type":"file","file":"C++ 멀티스레딩/Chapter02/프로세서와 OS에서의 멀티스레딩 구현.md"},
-		{"id":"eb71e72c19cddca4","x":-227,"y":-540,"width":400,"height":360,"type":"file","file":"C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md"}
-	],
-	"edges":[
-		{"id":"55bbe96308829cd8","fromNode":"eb71e72c19cddca4","fromSide":"bottom","toNode":"bad693fa546cbbfd","toSide":"top"}
-	]
+	"nodes":[],
+	"edges":[]
 }
