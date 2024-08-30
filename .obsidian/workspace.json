@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
+                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "298c901cf20ad103",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
+                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
+                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md"
+                "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md"
               }
             }
           },
@@ -158,15 +159,15 @@
   },
   "active": "ffe7dbb4ae58faf7",
   "lastOpenFiles": [
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter02/프로세서와 OS에서의 멀티스레딩 구현.md",
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter06/멀티스레드 코드의 디버깅.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter07/모범 실전 사례.md",
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter05/네이티브 C++ 스레드와 기본 요소.md",
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter04/스레드 동기화와 통신.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter03/POSIX 스레드.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter02/프로세서와 OS에서의 멀티스레딩 구현.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter02/OS별 스케줄링 알고리즘.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter05/네이티브 C++ 스레드와 기본 요소.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter04/스레드 동기화와 통신.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter06/멀티스레드 코드의 디버깅.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter07/모범 실전 사례.md",
     "동시성_Obsidian/Concurrency in Go/Chapter07/부록.md",
     "동시성_Obsidian/Concurrency in Go/Chapter01/동시성 소개.md",
     "동시성_Obsidian/Concurrency in Go/Chapter06/고루틴과 Go 런타임.md",
