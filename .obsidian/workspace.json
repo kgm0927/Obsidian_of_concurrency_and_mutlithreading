@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "298c901cf20ad103",
@@ -159,8 +158,11 @@
   },
   "active": "ffe7dbb4ae58faf7",
   "lastOpenFiles": [
-    "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
+    "무제 파일.canvas",
+    "2024-08-31.md",
+    "무제 파일 1.canvas",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter03/C++ 멀티스레딩 API.md",
+    "동시성_Obsidian/C++ 멀티스레딩/Chapter01/멀티스레딩 검토.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter03/POSIX 스레드.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter02/프로세서와 OS에서의 멀티스레딩 구현.md",
     "동시성_Obsidian/C++ 멀티스레딩/Chapter02/OS별 스케줄링 알고리즘.md",
@@ -176,7 +178,6 @@
     "동시성_Obsidian/표 2-1.md",
     "고루틴.md",
     "2024-07-31.md",
-    "무제 파일.canvas",
     "동시성_Obsidian/Concurrency in Go/Chapter05/확장에서의 동시성.md",
     "동시성을 지원하는 언어의 장점.md",
     "동시성_Obsidian/Concurrency in Go/Chapter06",
@@ -188,8 +189,6 @@
     "동시성_Obsidian/동시성에 대한 정리/프로그래밍 기본.md",
     "동시성_Obsidian/동시성에 대한 정리/인스트럭션 레벨 병렬성.md",
     "동시성_Obsidian/동시성에 대한 정리/암달의 법칙.md",
-    "동시성_Obsidian/Concurrency in Go/Chapter04/Go의 동시성 패턴.md",
-    "동시성_Obsidian/Concurrency in Go/Chapter03/Go의 동시성 구성 요소.md",
     "기본 폴더 - 1.jpg",
     "기본 폴더 - 1 1.jpg",
     "기본 폴더 - 1 2.jpg",
